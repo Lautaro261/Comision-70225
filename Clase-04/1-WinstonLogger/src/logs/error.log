@@ -1,0 +1,12 @@
+{"level":"warn","message":"Prueba de log en archivo","timestamp":"2025-01-21T13:46:29.638Z"}
+{"level":"error","message":"Prueba de log en archivo","timestamp":"2025-01-21T13:46:29.639Z"}
+{
+  message: 'Prueba de error',
+  level: 'error',
+  timestamp: '2025-01-21T14:22:20.250Z'
+}
+{
+  message: 'Prueba de error',
+  level: 'error',
+  timestamp: '2025-01-21T14:22:43.902Z'
+}
